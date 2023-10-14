@@ -11,20 +11,25 @@ namespace Collections
             Console.WriteLine("======================");
             Console.WriteLine();
 
-            //Collection<int> nums = new Collection<int>();
-            //Console.WriteLine($"Empty collection: {nums}");
-            //Console.WriteLine($"Count: {nums.Count}. Capacity: {nums.Capacity}");
-            //Console.WriteLine();
+            Collection<int> nums = new Collection<int>();
+            Console.WriteLine($"Empty collection: {nums}");
+            Console.WriteLine($"Count: {nums.Count}. Capacity: {nums.Capacity}");
+            Console.WriteLine();
 
-            //nums = new Collection<int>(new int[] { 10, 20, 30, 40, 50 });
-            //Console.WriteLine(nums);
-            //Console.WriteLine($"Count: {nums.Count}. Capacity: {nums.Capacity}");
-            //Console.WriteLine();
+            nums = new Collection<int>(new int[] { 10, 20, 30, 40, 50 });
+            Console.WriteLine(nums);
+            Console.WriteLine($"Count: {nums.Count}. Capacity: {nums.Capacity}");
+            Console.WriteLine();
 
-            //nums.Add(60);
-            //Console.WriteLine("Added: 60");
-            //Console.WriteLine(nums);
-            //Console.WriteLine();
+            var string_nums = new Collection<string>(new string[] {"dimo","ivan"});
+            Console.WriteLine(string_nums);
+            Console.WriteLine($"Count: {string_nums.Count}.Capacity: {string_nums.Capacity}");
+            Console.WriteLine() ;
+
+            nums.Add(60);
+            Console.WriteLine("Added: 60");
+            Console.WriteLine(nums);
+            Console.WriteLine();
 
             //nums[1] = 2000;
             //nums[5] = 6000;
