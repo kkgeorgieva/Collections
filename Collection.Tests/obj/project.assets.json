@@ -1002,11 +1002,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\georg\\OneDrive\\Desktop\\Automation QA\\repos\\Collection.Tests\\Collection.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\georg\\OneDrive\\Desktop\\Automation QA\\repos\\Collections\\Collection.Tests\\Collection.Tests.csproj",
       "projectName": "Collection.Tests",
-      "projectPath": "C:\\Users\\georg\\OneDrive\\Desktop\\Automation QA\\repos\\Collection.Tests\\Collection.Tests.csproj",
+      "projectPath": "C:\\Users\\georg\\OneDrive\\Desktop\\Automation QA\\repos\\Collections\\Collection.Tests\\Collection.Tests.csproj",
       "packagesPath": "C:\\Users\\georg\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\georg\\OneDrive\\Desktop\\Automation QA\\repos\\Collection.Tests\\obj\\",
+      "outputPath": "C:\\Users\\georg\\OneDrive\\Desktop\\Automation QA\\repos\\Collections\\Collection.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\georg\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1023,8 +1023,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\georg\\OneDrive\\Desktop\\Automation QA\\repos\\Collections\\Collections.csproj": {
-              "projectPath": "C:\\Users\\georg\\OneDrive\\Desktop\\Automation QA\\repos\\Collections\\Collections.csproj"
+            "C:\\Users\\georg\\OneDrive\\Desktop\\Automation QA\\repos\\Collections\\Collections\\Collections.csproj": {
+              "projectPath": "C:\\Users\\georg\\OneDrive\\Desktop\\Automation QA\\repos\\Collections\\Collections\\Collections.csproj"
             }
           }
         }
